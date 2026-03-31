@@ -45,4 +45,6 @@ The script will output the mIoU and FPS metrics and save visualized results in t
 Below are examples of the model identifying drivable surfaces in urban scenes:
 **Input vs AI Prediction**
 ![Input vs AI Prediction](test_results/sample.jpg)
+## 8. Model Weights
+Due to file size restrictions, the trained model weights (my_checkpoint.pth) can be downloaded here: [(https://drive.google.com/file/d/1dg5uWe0ILluvFh8KZ6r_-onjoL8bVPG-/view?usp=drive_link)]. Please place this file in the root directory before running `test.py`.
 
