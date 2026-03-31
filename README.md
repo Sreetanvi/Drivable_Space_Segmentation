@@ -32,7 +32,7 @@ MetricResults:
     * Albumentations, OpenCV, Matplotlib, TQDM
 * Installation:
     ```
-    git clone [your-repo-link]
+    git clone [(https://github.com/Sreetanvi/Drivable_Space_Segmentation)]
     cd Drivable_space_project
     pip install torch torchvision albumentations matplotlib numpy
 ## 6. How to Run To verify the model and generate your own drivable space masks:
